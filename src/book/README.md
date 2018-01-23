@@ -2,7 +2,8 @@
 
 ## Structuring content
 
-Use markdown files to structure your content, however you want. Import them and export them in `index.js`
+Use markdown files to structure your content, however you want. Import them and export them in `index.js`.
+Markdown front-matter is not supported yet.
 
 ## Images and Resources
 

@@ -1,0 +1,21 @@
+.Legend {
+    display: flex;
+    background: #fafafa;
+    box-shadow: 0 0 4px #cccccc;
+    width: 18em;
+}
+
+.Legend > nav > .heading {
+    font-size: 2rem;
+    padding: .5rem 2rem;
+    line-height: 1.4;
+}
+
+.Legend > nav > ul {
+    padding: 0;
+    list-style: none;
+}
+
+.Legend > nav > ul > li {
+    padding: 0.5rem 2rem;
+}

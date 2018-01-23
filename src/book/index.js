@@ -3,7 +3,7 @@
  * 
  * This file exports an array of courses.
  */
-import chapter1 from './chapter-1.md';
+import chapter1 from './warmup.md';
 
 export default {
     title: 'Modern Javascript',
@@ -15,10 +15,10 @@ export default {
         twitter: 'agathver',
         website: 'https://amitosh.in'
     },
-    chapters: [
-        {
+    chapters: {
+        warmup: {
             title: 'Warmup',
             content: chapter1,
         }
-    ],
+    },
 };
